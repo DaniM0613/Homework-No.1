@@ -18,3 +18,7 @@ Deployment of the first bootcamp task laserants
 # Upload changes to the repository
 
 ![step 3](https://github.com/user-attachments/assets/fc23a0b3-e3be-410a-9810-0d534fa45f12)
+
+# GitHub Actions Workflows
+
+![step 4](https://github.com/user-attachments/assets/b54e3f13-b70e-4177-a20d-01aa773d1876)
