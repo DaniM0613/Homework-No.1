@@ -22,3 +22,8 @@ Deployment of the first bootcamp task laserants
 # GitHub Actions Workflows
 
 ![step 4](https://github.com/user-attachments/assets/b54e3f13-b70e-4177-a20d-01aa773d1876)
+
+# Showing the two messages in console (GitHub Actions)
+
+![image](https://github.com/user-attachments/assets/8fb13b1c-3cce-45a9-98bf-61b7c19a2d38)
+
